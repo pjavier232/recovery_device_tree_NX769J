@@ -1,1 +1,2 @@
 https://github.com/azzzddddd/recovery_device_tree_NX769J/actions
+#
